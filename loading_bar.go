@@ -5,7 +5,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/atarte/console-screen/utils"
+	"github.com/atarte/cli-interface/utils"
 )
 
 // LoadingBar
